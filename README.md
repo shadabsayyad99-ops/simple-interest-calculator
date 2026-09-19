@@ -29,6 +29,7 @@ The calculator takes the following inputs:
 ## Example
 
 If:
+hello shahadab
 
 - Principal Amount = ₹10,000
 - Rate of Interest = 5%
